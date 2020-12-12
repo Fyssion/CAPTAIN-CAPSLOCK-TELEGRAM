@@ -1,3 +1,5 @@
 asyncpg
 telethon
 jishaku
+jinja2
+asyncpg
